@@ -1,14 +1,14 @@
-# Breast_Cancer-Classification
+# Breast_Cancer-Classification:
 A machine learning project for breast cancer classification using Python and Google Colab.
 
-Project Overview
+Project Overview:
 This project uses Machine Learning to classify breast cancer tumors as **Malignant** or **Benign** based on medical diagnostic features.
 The project was developed using Python in Google Colab and uses machine learning techniques for data analysis and classification.
 
-Objective
+Objective:
 The main objective of this project is to build a machine learning model that can accurately classify breast cancer tumors based on the given dataset features.
 
-Technologies Used
+Technologies Used:
 - Python
 - Google Colab
 - NumPy
@@ -16,7 +16,7 @@ Technologies Used
 - Matplotlib
 - Scikit-learn
 
-Dataset
+Dataset:
 The dataset contains medical diagnostic measurements that are used to classify tumors into different categories.
 
 The target classes are:
@@ -34,11 +34,11 @@ The project follows these steps:
 7. Evaluate the model performance
 8. Predict breast cancer classification
 
-Machine Learning Model
+Machine Learning Model:
 The machine learning model is trained using the breast cancer dataset to predict whether a tumor is:
 - Malignant
 - Benign
 
-Results
+Results:
 The model performance is evaluated using appropriate machine learning evaluation methods.
 
